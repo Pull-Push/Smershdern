@@ -1,0 +1,84 @@
+FIGHTER_NUMBER,NAME,SERIES,YEAR_DEBUT,TEMPORAL_GAP,SSB_GAME_DEBUT,AGE,GENDER_MALE,GENDER_FEMALE,GENDER_NONE,ALIGN_GOOD,ALIGN_EVIL,ALIGN_NEUTRAL,HEIGHT,WIDTH,AREA,WEIGHT,SOKOL,DECKER,REENSTRA
+1,Mario,Super Mario,1981,18,N64,,1,0,0,1,0,0,1.4,0.6,0.84,98,0,1,0
+2,Donkey Kong,Donkey Kong,1981,18,N64,,1,0,0,0,0,1,1.95,1.8,3.51,127,0,1,0
+3,Link,The Legend of Zelda,1986,13,N64,,1,0,0,1,0,0,1.575,0.8,1.26,104,0,1,0
+4,Samus,Metroid,1986,13,N64,,0,1,0,1,0,0,1.79,0.8,1.432,108,0,0,1
+5,Dark Samus,Metroid,2002,16,Ultimate,,0,1,0,0,1,0,1.85,1,1.85,108,0,0,1
+6,Yoshi,Yoshi,1990,9,N64,,1,1,0,1,0,0,1.6,1,1.6,104,0,0,1
+7,Kirby,Kirby,1992,7,N64,,1,0,0,1,0,0,0.9,0.9,0.81,79,0,0,1
+8,Fox,Star Fox,1993,6,N64,,1,0,0,1,0,0,1.4,0.9,1.26,77,1,0,0
+9,Pikachu,Pokemon,1996,3,N64,,1,1,0,0,0,1,1,0.9,0.9,79,0,0,1
+10,Luigi,Super Mario,1983,16,N64,,1,0,0,1,0,0,1.5,0.6,0.9,97,0,0,0
+11,Ness,EarthBound,1994,5,N64,,1,0,0,1,0,0,1.25,0.55,0.6875,94,0,0,1
+12,Captain Falcon,F-Zero,1990,9,N64,,1,0,0,1,0,0,1.7,0.9,1.53,104,1,0,0
+13,Jigglypuff,Pokemon,1996,3,N64,,0,0,1,0,0,1,1,1,1,68,0,0,1
+14,Peach,Super Mario,1985,16,Melee,,0,1,0,1,0,0,1.7,0.4,0.68,89,1,1,0
+15,Daisy,Super Mario,1989,29,Ultimate,,0,1,0,1,0,0,1.65,0.5,0.825,89,1,1,0
+16,Bowser,Super Mario,1985,16,Melee,,1,0,0,0,1,0,2,1.6,3.2,135,1,1,0
+17,Ice Climbers,Ice Climber,1985,16,Melee,,1,1,0,0,0,1,1.2,0.85,1.02,92,1,0,0
+18,Sheik,The Legend of Zelda,1998,3,Melee,,0,1,0,1,0,0,1.7,0.6,1.02,78,0,0,1
+19,Zelda,The Legend of Zelda,1986,13,Melee,,0,1,0,1,0,0,1.75,0.4,0.7,85,0,0,1
+20,Dr. Mario,Super Mario,1990,11,Melee,,1,0,0,1,0,0,1.35,0.8,1.08,98,0,1,0
+21,Pichu,Pokemon,1999,2,Melee,,1,1,0,0,0,1,1.15,0.8,0.92,62,0,0,1
+22,Falco,Star Fox,1993,8,Melee,,1,0,0,1,0,0,1.65,0.7,1.155,82,1,0,0
+23,Marth,Fire Emblem,1990,11,Melee,,1,0,0,1,0,0,1.725,0.6,1.035,90,0,0,0
+24,Lucina,Fire Emblem,2012,2,SSB4,,0,1,0,1,0,0,1.725,0.6,1.035,90,0,0,0
+25,Young Link,The Legend of Zelda,1998,3,Melee,,1,0,0,1,0,0,1.4,0.6,0.84,88,0,1,0
+26,Ganondorf,The Legend of Zelda,1998,3,Melee,,1,0,0,0,1,0,2.14,1.1,2.354,118,1,1,1
+27,Mewtwo,Pokemon,1996,5,Melee,,1,1,0,0,0,1,1.775,1.3,2.3075,79,1,0,0
+28,Roy,Fire Emblem,2001,0,Melee,,1,0,0,1,0,0,1.76,0.7,1.232,95,0,0,0
+29,Chrom,Fire Emblem,2012,6,Ultimate,,1,0,0,1,0,0,1.76,0.7,1.232,95,0,0,0
+30,Mr. Game and Watch,Game And Watch,1980,21,Melee,,1,0,0,0,1,0,1.2,0.9,1.08,75,1,0,0
+31,Meta Knight,Kirby,1993,15,Brawl,,1,0,0,0,0,1,1.025,1.2,1.23,80,0,0,0
+32,Pit,Kid Icarus,1986,22,Brawl,,1,0,0,1,0,0,1.6,0.7,1.12,96,1,0,0
+33,Dark Pit,Kid Icarus,2012,2,SSB4,,1,0,0,0,0,1,1.6,0.7,1.12,96,1,0,0
+34,Zero Suit Samus,Metroid,2004,4,Brawl,,0,1,0,0,1,0,1.75,0.4,0.7,80,0,1,0
+35,Wario,Wario Ware,1992,16,Brawl,,1,0,0,0,0,1,1.3,1.1,1.43,107,0,0,0
+36,Snake,Metal Gear Solid,1987,21,Brawl,,1,0,0,1,0,0,1.75,0.8,1.4,106,0,1,0
+37,Ike,Fire Emblem,2005,3,Brawl,,1,0,0,1,0,0,1.82,0.8,1.456,107,0,0,1
+38,Pokemon Trainer,Pokemon,1996,12,Brawl,,1,1,0,0,0,1,1.3,1.4,1.82,95.66,0,1,0
+39,Diddy Kong,Donkey Kong,1994,14,Brawl,,1,0,0,1,0,0,1.2,0.8,0.96,90,1,0,1
+40,Lucas,EarthBound,2006,2,Brawl,,1,0,0,1,0,0,1.25,0.6,0.75,94,0,0,1
+41,Sonic,Sonic The Hedgehog,1991,17,Brawl,,1,0,0,1,0,0,1.4,0.8,1.12,86,0,0,1
+42,King Dedede,Kirby,1992,16,Brawl,,1,0,0,0,0,1,1.75,1.5,2.625,127,1,0,0
+43,Olmar,Pikmin,2001,7,Brawl,,1,0,0,0,0,1,1.025,0.8,0.82,79,0,0,1
+44,Lucario,Pokemon,2005,3,Brawl,,1,1,0,0,0,1,1.5,1.3,1.95,92,1,0,0
+45,ROB,ROB,1985,23,Brawl,,0,0,1,0,0,1,1.7,1.2,2.04,106,0,0,1
+46,Toon Link,The Legend of Zelda,2002,6,Brawl,,1,0,0,1,0,0,1.3,0.7,0.91,91,0,1,0
+47,Wolf,Star Fox,1997,11,Brawl,,1,0,0,0,0,1,1.55,0.9,1.395,92,1,0,0
+48,Villager,Animal Crossing,2001,13,SSB4,,1,1,0,0,0,1,1.3,0.6,0.78,92,0,1,0
+49,Mega Man,Mega Man,1987,27,SSB4,,1,0,0,1,0,0,1.425,0.8,1.14,102,1,0,0
+50,Wii Fit Trainer,Wii Fit,2007,7,SSB4,,1,1,0,0,0,1,1.775,0.4,0.71,96,0,1,0
+51,Rosalina and Luma,Super Mario,2007,7,SSB4,,0,1,0,1,0,0,1.95,0.8,1.56,82,0,0,1
+52,Little Mac,Punch Out,1984,30,SSB4,,1,0,0,0,0,1,1.5,0.8,1.2,87,1,0,0
+53,Greninja,Pokemon,2013,1,SSB4,,1,1,0,0,0,1,1,1.15,1.15,88,1,0,0
+54,Palutena,Kid Icarus,1986,28,SSB4,,0,1,0,1,0,0,1.75,0.6,1.05,91,0,0,1
+55,Pac-Man,Pac-Man,1980,34,SSB4,,1,0,0,0,0,1,1.3,1,1.3,95,0,1,0
+56,Robin,Fire Emblem,2012,2,SSB4,,1,1,0,1,0,0,1.7,0.6,1.02,95,0,0,1
+57,Shulk,Xenoblade Chronicles,2010,4,SSB4,,1,0,0,1,0,0,1.7,0.675,1.1475,97,1,0,0
+58,Bowser Jr,Super Mario,2002,12,SSB4,,1,1,0,0,1,0,1.6,1.1,1.76,108,1,0,0
+59,Duck Hunt,Duck Hunt,1984,30,SSB4,,0,0,1,0,1,0,1.125,1,1.125,86,1,0,0
+60,Ryu,Street Fighter,1987,28,SSB4,,1,0,0,0,0,1,1.65,0.8,1.32,103,0,0,0
+61,Ken,Street Fighter,1987,31,Ultimate,,1,0,0,0,0,1,1.65,0.8,1.32,103,0,0,0
+62,Cloud,Final Fantasy 7,1997,18,SSB4,,1,0,0,1,0,0,1.6,0.9,1.44,100,0,1,0
+63,Corrin,Fire Emblem,2015,1,SSB4,,1,1,0,1,0,0,1.7,0.6,1.02,98,0,0,0
+64,Bayonetta,Bayonetta,2009,7,SSB4,,0,1,0,1,0,0,1.85,0.6,1.11,81,0,1,0
+65,Inkling,Splatoon,2015,3,Ultimate,,1,1,0,0,0,1,1.3,1,1.3,94,0,0,1
+66,Ridley,Metroid,1986,32,Ultimate,,1,0,0,0,1,0,2.1,1.9,3.99,107,0,0,0
+67,Simon,Castlevania,1986,32,Ultimate,,1,0,0,1,0,0,1.625,0.9,1.4625,107,1,0,0
+68,Richter,Castlevania,1993,25,Ultimate,,1,0,0,1,0,0,1.625,0.9,1.4625,107,1,0,0
+69,King K. Rool,Donkey Kong,1994,24,Ultimate,,1,0,0,0,1,0,2.15,1.6,3.44,133,1,0,0
+70,Isabelle,Animal Crossing,2012,6,Ultimate,,0,1,0,0,0,1,1.3,0.7,0.91,88,0,1,0
+71,Incineroar,Pokemon,2016,2,Ultimate,,1,1,0,0,0,1,1.7,1.2,2.04,116,0,0,0
+72,Piranha Plant,Super Mario,1985,34,Ultimate,,0,0,1,0,1,0,1.6,1,1.6,112,1,0,0
+73,Joker,Persona 5,2016,3,Ultimate,,1,0,0,1,0,0,1.7,0.6,1.02,93,0,1,0
+74,Hero,Dragon Quest,1988,31,Ultimate,,1,0,0,1,0,0,1.7,0.7,1.19,101,1,0,1
+75,Banjo and Kazooie,Banjo Kazooie,1997,22,Ultimate,,1,1,0,1,0,0,1.5,1,1.5,106,0,1,0
+76,Terry,Fatal Fury,1991,28,Ultimate,,1,0,0,1,0,0,1.7,0.8,1.36,108,1,1,0
+77,Byleth,Fire Emblem,2019,1,Ultimate,,1,1,0,1,0,0,1.75,0.6,1.05,97,0,0,1
+78,Min Min,Arms,2017,3,Ultimate,,0,1,0,0,0,1,1.5,1.2,1.8,104,1,0,0
+79,Steve,Minecraft,2011,9,Ultimate,,1,1,0,0,0,1,1.5,0.65,0.975,92,0,0,1
+80,Sephiroth,Final Fantasy 7,1997,23,Ultimate,,1,0,0,0,1,0,1.95,0.6,1.17,79,0,1,0
+81,Pyra/Mythra,Xenoblade Chronicles,2017,4,Ultimate,,0,1,0,1,0,0,1.7375,0.55,0.955625,95,0,0,1
+82,Kazuya,Tekken,1994,27,Ultimate,,1,0,0,0,1,0,1.79,0.8,1.432,113,1,1,0
+83,Sora,Kingdom Hearts,2002,19,Ultimate,,1,0,0,1,0,0,1.4,0.7,0.98,85,0,1,0
