@@ -7,3 +7,6 @@ from django.shortcuts import render
 def home(request):
     context = {'name':'mario'}
     return render(request, 'whiskeywheel/index.html', context)
+
+def wheel(request):
+    return render(request, 'whiskeywheel/wheelpage.html')
