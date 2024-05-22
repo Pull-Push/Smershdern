@@ -1,0 +1,84 @@
+FIGHTER_NUMBER,NAME,SERIES,YEAR_DEBUT,TEMPORAL_GAP,SSB_GAME_DEBUT,AGE,GENDER_MALE,GENDER_FEMALE,GENDER_NONE,ALIGN_GOOD,ALIGN_EVIL,ALIGN_NEUTRAL,HEIGHT,WIDTH,AREA,WEIGHT,SMALL_PHOTO,LARGE_PHOTO,SOKOL,DECKER,REENSTRA,CAMARCO,BROSS,RYPKEMA,BILLY_BOB,JIMMY_JAM,RANDO_CALRISSIAN,HANSEL_SOLO,DEREK_ZOOLANDER
+1,Mario,Super Mario,1981,18,N64,N/A,1,0,0,1,0,0,1.4,0.6,0.84,98,imgs/SMALL_PHOTO/Mario.jpg,imgs/LARGE_PHOTO/Mario_SSBU.jpg,0,1,0,0,,0,0,1,0,1,1
+2,Donkey Kong,Donkey Kong,1981,18,N64,N/A,1,0,0,0,0,1,1.95,1.8,3.51,127,imgs/SMALL_PHOTO/DonkeyKong.jpg,imgs/LARGE_PHOTO/DonkeyKong_SSBU.jpg,0,1,0,0,,1,0,1,1,1,0
+3,Link,The Legend of Zelda,1986,13,N64,N/A,1,0,0,1,0,0,1.575,0.8,1.26,104,imgs/SMALL_PHOTO/Link.jpg,imgs/LARGE_PHOTO/Link_SSBU.jpg,0,1,0,0,,0,0,0,1,1,1
+4,Samus,Metroid,1986,13,N64,N/A,0,1,0,1,0,0,1.79,0.8,1.432,108,imgs/SMALL_PHOTO/Samus.jpg,imgs/LARGE_PHOTO/Samus_SSBU.jpg,0,0,1,1,,1,0,0,0,1,0
+5,Dark Samus,Metroid,2002,16,Ultimate,N/A,0,1,0,0,1,0,1.85,1,1.85,108,imgs/SMALL_PHOTO/DarkSamus.jpg,imgs/LARGE_PHOTO/DarkSamus_SSBU.jpg,0,0,1,1,,1,1,0,0,0,0
+6,Yoshi,Yoshi,1990,9,N64,N/A,1,1,0,1,0,0,1.6,1,1.6,104,imgs/SMALL_PHOTO/Yoshi.jpg,imgs/LARGE_PHOTO/Yoshi_SSBU.jpg,0,0,1,0,,0,1,0,0,0,1
+7,Kirby,Kirby,1992,7,N64,N/A,1,0,0,1,0,0,0.9,0.9,0.81,79,imgs/SMALL_PHOTO/Kirby.jpg,imgs/LARGE_PHOTO/Kirby_SSBU.jpg,0,0,1,0,,1,0,1,1,1,1
+8,Fox,Star Fox,1993,6,N64,N/A,1,0,0,1,0,0,1.4,0.9,1.26,77,imgs/SMALL_PHOTO/Fox.jpg,imgs/LARGE_PHOTO/Fox_SSBU.jpg,1,0,0,0,,0,1,1,0,1,1
+9,Pikachu,Pokemon,1996,3,N64,N/A,1,1,0,0,0,1,1,0.9,0.9,79,imgs/SMALL_PHOTO/Pikachu.jpg,imgs/LARGE_PHOTO/Pikachu_SSBU.jpg,0,0,1,1,,1,0,1,1,0,0
+10,Luigi,Super Mario,1983,16,N64,N/A,1,0,0,1,0,0,1.5,0.6,0.9,97,imgs/SMALL_PHOTO/Luigi.jpg,imgs/LARGE_PHOTO/Luigi_SSBU.jpg,0,0,0,1,,0,1,0,1,0,1
+11,Ness,EarthBound,1994,5,N64,N/A,1,0,0,1,0,0,1.25,0.55,0.6875,94,imgs/SMALL_PHOTO/Ness.jpg,imgs/LARGE_PHOTO/Ness_SSBU.jpg,0,0,1,1,,0,0,1,1,1,0
+12,Captain Falcon,F-Zero,1990,9,N64,N/A,1,0,0,1,0,0,1.7,0.9,1.53,104,imgs/SMALL_PHOTO/CaptainFalcon.jpg,imgs/LARGE_PHOTO/CaptainFalcon_SSBU.jpg,1,0,0,1,,0,1,1,1,0,0
+13,Jigglypuff,Pokemon,1996,3,N64,N/A,0,0,1,0,0,1,1,1,1,68,imgs/SMALL_PHOTO/Jigglypuff.jpg,imgs/LARGE_PHOTO/Jigglypuff_SSBU.jpg,0,0,1,0,,0,1,0,0,0,1
+14,Peach,Super Mario,1985,16,Melee,N/A,0,1,0,1,0,0,1.7,0.4,0.68,89,imgs/SMALL_PHOTO/Peach.jpg,imgs/LARGE_PHOTO/Peach_SSBU.jpg,1,1,0,0,,0,1,1,0,1,0
+15,Daisy,Super Mario,1989,29,Ultimate,N/A,0,1,0,1,0,0,1.65,0.5,0.825,89,imgs/SMALL_PHOTO/Daisy.png,imgs/LARGE_PHOTO/Daisy_SSBU.jpg,1,1,0,0,,0,1,0,0,0,1
+16,Bowser,Super Mario,1985,16,Melee,N/A,1,0,0,0,1,0,2,1.6,3.2,135,imgs/SMALL_PHOTO/Bowser.jpg,imgs/LARGE_PHOTO/Bowser_SSBU.jpg,1,1,0,1,,1,1,0,1,0,0
+17,Ice Climbers,Ice Climber,1985,16,Melee,N/A,1,1,0,0,0,1,1.2,0.85,1.02,92,imgs/SMALL_PHOTO/IceClimbers.jpg,imgs/LARGE_PHOTO/IceClimbers_SSBU.jpg,1,0,0,0,,0,0,1,1,1,1
+18,Sheik,The Legend of Zelda,1998,3,Melee,N/A,0,1,0,1,0,0,1.7,0.6,1.02,78,imgs/SMALL_PHOTO/Sheik.jpg,imgs/LARGE_PHOTO/Sheik_SSBU.jpg,0,0,1,1,,0,0,1,1,1,0
+19,Zelda,The Legend of Zelda,1986,13,Melee,N/A,0,1,0,1,0,0,1.75,0.4,0.7,85,imgs/SMALL_PHOTO/Zelda.jpg,imgs/LARGE_PHOTO/Zelda_SSBU.jpg,0,0,1,1,,0,1,1,1,0,0
+20,Dr. Mario,Super Mario,1990,11,Melee,N/A,1,0,0,1,0,0,1.35,0.8,1.08,98,imgs/SMALL_PHOTO/DrMario.jpg,imgs/LARGE_PHOTO/DrMario_SSBU.jpg,0,1,0,0,,0,0,1,1,1,1
+21,Pichu,Pokemon,1999,2,Melee,N/A,1,1,0,0,0,1,1.15,0.8,0.92,62,imgs/SMALL_PHOTO/Pichu.jpg,imgs/LARGE_PHOTO/Pichu_SSBU.jpg,0,0,1,1,,0,1,1,0,1,0
+22,Falco,Star Fox,1993,8,Melee,N/A,1,0,0,1,0,0,1.65,0.7,1.155,82,imgs/SMALL_PHOTO/Falco.jpg,imgs/LARGE_PHOTO/Falco_SSBU.jpg,1,0,0,1,,0,0,1,1,1,0
+23,Marth,Fire Emblem,1990,11,Melee,N/A,1,0,0,1,0,0,1.725,0.6,1.035,90,imgs/SMALL_PHOTO/Marth.jpg,imgs/LARGE_PHOTO/Marth_SSBU.jpg,0,0,0,1,,0,0,0,0,1,0
+24,Lucina,Fire Emblem,2012,2,SSB4,N/A,0,1,0,1,0,0,1.725,0.6,1.035,90,imgs/SMALL_PHOTO/Lucina.jpg,imgs/LARGE_PHOTO/Lucina_SSBU.jpg,0,0,0,1,,1,0,1,1,0,0
+25,Young Link,The Legend of Zelda,1998,3,Melee,N/A,1,0,0,1,0,0,1.4,0.6,0.84,88,imgs/SMALL_PHOTO/YoungLink.jpg,imgs/LARGE_PHOTO/YoungLink_SSBU.jpg,0,1,0,0,,0,0,0,1,1,0
+26,Ganondorf,The Legend of Zelda,1998,3,Melee,N/A,1,0,0,0,1,0,2.14,1.1,2.354,118,imgs/SMALL_PHOTO/Ganondorf.jpg,imgs/LARGE_PHOTO/Ganondorf_SSBU.jpg,1,1,1,0,,1,1,1,1,1,0
+27,Mewtwo,Pokemon,1996,5,Melee,N/A,1,1,0,0,0,1,1.775,1.3,2.3075,79,imgs/SMALL_PHOTO/Mewtwo.jpg,imgs/LARGE_PHOTO/Mewtwo_SSBU.jpg,1,0,0,1,,1,0,0,1,0,1
+28,Roy,Fire Emblem,2001,0,Melee,N/A,1,0,0,1,0,0,1.76,0.7,1.232,95,imgs/SMALL_PHOTO/Roy.jpg,imgs/LARGE_PHOTO/Roy_SSBU.jpg,0,0,0,1,,1,0,0,0,0,0
+29,Chrom,Fire Emblem,2012,6,Ultimate,N/A,1,0,0,1,0,0,1.76,0.7,1.232,95,imgs/SMALL_PHOTO/Chrom.jpg,imgs/LARGE_PHOTO/Chrom_SSBU.jpg,0,0,0,1,,1,1,1,1,0,1
+30,Mr. Game and Watch,Game And Watch,1980,21,Melee,N/A,1,0,0,0,1,0,1.2,0.9,1.08,75,imgs/SMALL_PHOTO/MrGW.jpg,imgs/LARGE_PHOTO/MrGW_SSBU.jpg,1,0,0,0,,0,1,1,1,0,1
+31,Meta Knight,Kirby,1993,15,Brawl,N/A,1,0,0,0,0,1,1.025,1.2,1.23,80,imgs/SMALL_PHOTO/MetaKnight.jpg,imgs/LARGE_PHOTO/MetaKnight_SSBU.jpg,0,0,0,1,,1,0,1,1,1,1
+32,Pit,Kid Icarus,1986,22,Brawl,N/A,1,0,0,1,0,0,1.6,0.7,1.12,96,imgs/SMALL_PHOTO/Pit.jpg,imgs/LARGE_PHOTO/Pit_SSBU.jpg,1,0,0,0,,1,0,1,1,1,1
+33,Dark Pit,Kid Icarus,2012,2,SSB4,N/A,1,0,0,0,0,1,1.6,0.7,1.12,96,imgs/SMALL_PHOTO/DarkPit.jpg,imgs/LARGE_PHOTO/DarkPit_SSBU.jpg,1,0,0,0,,1,1,1,1,0,0
+34,Zero Suit Samus,Metroid,2004,4,Brawl,N/A,0,1,0,0,1,0,1.75,0.4,0.7,80,imgs/SMALL_PHOTO/ZeroSuitSamus.jpg,imgs/LARGE_PHOTO/ZeroSuitSamus_SSBU.jpg,0,1,0,1,,1,1,1,0,0,0
+35,Wario,Wario Ware,1992,16,Brawl,N/A,1,0,0,0,0,1,1.3,1.1,1.43,107,imgs/SMALL_PHOTO/Wario.jpg,imgs/LARGE_PHOTO/Wario_SSBU.jpg,0,0,0,0,,0,1,1,0,0,0
+36,Snake,Metal Gear Solid,1987,21,Brawl,N/A,1,0,0,1,0,0,1.75,0.8,1.4,106,imgs/SMALL_PHOTO/Snake.jpg,imgs/LARGE_PHOTO/Snake_SSBU.jpg,0,1,0,1,,0,0,1,1,0,1
+37,Ike,Fire Emblem,2005,3,Brawl,N/A,1,0,0,1,0,0,1.82,0.8,1.456,107,imgs/SMALL_PHOTO/Ike.jpg,imgs/LARGE_PHOTO/Ike_SSBU.jpg,0,0,1,1,,0,1,1,0,1,1
+38,Pokemon Trainer,Pokemon,1996,12,Brawl,N/A,1,1,0,0,0,1,1.3,1.4,1.82,95.66,imgs/SMALL_PHOTO/PokemonTrainer.jpg,imgs/LARGE_PHOTO/PokemonTrainer_SSBU.jpg,0,1,0,1,,0,0,0,0,1,1
+39,Diddy Kong,Donkey Kong,1994,14,Brawl,N/A,1,0,0,1,0,0,1.2,0.8,0.96,90,imgs/SMALL_PHOTO/DiddyKong.jpg,imgs/LARGE_PHOTO/DiddyKong_SSBU.jpg,1,0,1,1,,0,0,0,0,1,0
+40,Lucas,EarthBound,2006,2,Brawl,N/A,1,0,0,1,0,0,1.25,0.6,0.75,94,imgs/SMALL_PHOTO/Lucas.jpg,imgs/LARGE_PHOTO/Lucas_SSBU.jpg,0,0,1,0,,0,1,0,1,0,1
+41,Sonic,Sonic The Hedgehog,1991,17,Brawl,N/A,1,0,0,1,0,0,1.4,0.8,1.12,86,imgs/SMALL_PHOTO/Sonic.jpg,imgs/LARGE_PHOTO/Sonic_SSBU.jpg,0,0,1,0,,1,1,1,1,1,1
+42,King Dedede,Kirby,1992,16,Brawl,N/A,1,0,0,0,0,1,1.75,1.5,2.625,127,imgs/SMALL_PHOTO/KingDedede.jpg,imgs/LARGE_PHOTO/KingDedede_SSBU.jpg,1,0,0,0,,1,0,1,1,0,1
+43,Olmar,Pikmin,2001,7,Brawl,N/A,1,0,0,0,0,1,1.025,0.8,0.82,79,imgs/SMALL_PHOTO/Olimar.jpg,imgs/LARGE_PHOTO/Olimar_SSBU.jpg,0,0,1,0,,0,0,1,1,0,0
+44,Lucario,Pokemon,2005,3,Brawl,N/A,1,1,0,0,0,1,1.5,1.3,1.95,92,imgs/SMALL_PHOTO/Lucario.jpg,imgs/LARGE_PHOTO/Lucario_SSBU.jpg,1,0,0,1,,1,0,1,0,1,1
+45,ROB,ROB,1985,23,Brawl,N/A,0,0,1,0,0,1,1.7,1.2,2.04,106,imgs/SMALL_PHOTO/ROB.jpg,imgs/LARGE_PHOTO/ROB_SSBU.jpg,0,0,1,1,,1,1,1,0,0,1
+46,Toon Link,The Legend of Zelda,2002,6,Brawl,N/A,1,0,0,1,0,0,1.3,0.7,0.91,91,imgs/SMALL_PHOTO/ToonLink.jpg,imgs/LARGE_PHOTO/ToonLink_SSBU.jpg,0,1,0,0,,0,1,1,0,1,0
+47,Wolf,Star Fox,1997,11,Brawl,N/A,1,0,0,0,0,1,1.55,0.9,1.395,92,imgs/SMALL_PHOTO/Wolf.jpg,imgs/LARGE_PHOTO/Wolf_SSBU.jpg,1,0,0,0,,1,1,0,0,1,1
+48,Villager,Animal Crossing,2001,13,SSB4,N/A,1,1,0,0,0,1,1.3,0.6,0.78,92,imgs/SMALL_PHOTO/Villager.jpg,imgs/LARGE_PHOTO/Villager_SSBU.jpg,0,1,0,0,,0,0,0,0,0,0
+49,Mega Man,Mega Man,1987,27,SSB4,N/A,1,0,0,1,0,0,1.425,0.8,1.14,102,imgs/SMALL_PHOTO/MegaMan.jpg,imgs/LARGE_PHOTO/MegaMan_SSBU.jpg,1,0,0,1,,1,0,0,1,1,0
+50,Wii Fit Trainer,Wii Fit,2007,7,SSB4,N/A,1,1,0,0,0,1,1.775,0.4,0.71,96,imgs/SMALL_PHOTO/WiiFitTrainer.jpg,imgs/LARGE_PHOTO/WiiFitTrainer_SSBU.jpg,0,1,0,0,,0,0,1,1,0,0
+51,Rosalina and Luma,Super Mario,2007,7,SSB4,N/A,0,1,0,1,0,0,1.95,0.8,1.56,82,imgs/SMALL_PHOTO/Rosalina.jpg,imgs/LARGE_PHOTO/RosalinaLuma_SSBU.jpg,0,0,1,0,,0,1,0,0,1,1
+52,Little Mac,Punch Out,1984,30,SSB4,N/A,1,0,0,0,0,1,1.5,0.8,1.2,87,imgs/SMALL_PHOTO/LittleMac.jpg,imgs/LARGE_PHOTO/LittleMac_SSBU.jpg,1,0,0,1,,1,0,0,0,0,1
+53,Greninja,Pokemon,2013,1,SSB4,N/A,1,1,0,0,0,1,1,1.15,1.15,88,imgs/SMALL_PHOTO/Greninja.jpg,imgs/LARGE_PHOTO/Greninja_SSBU.jpg,1,0,0,1,,1,1,0,1,0,0
+54,Palutena,Kid Icarus,1986,28,SSB4,N/A,0,1,0,1,0,0,1.75,0.6,1.05,91,imgs/SMALL_PHOTO/Palutena.jpg,imgs/LARGE_PHOTO/Palutena_SSBU.jpg,0,0,1,0,,0,1,1,1,0,0
+55,Pac-Man,Pac-Man,1980,34,SSB4,N/A,1,0,0,0,0,1,1.3,1,1.3,95,imgs/SMALL_PHOTO/PacMan.jpg,imgs/LARGE_PHOTO/PacMan_SSBU.jpg,0,1,0,0,,0,1,1,1,0,1
+56,Robin,Fire Emblem,2012,2,SSB4,N/A,1,1,0,1,0,0,1.7,0.6,1.02,95,imgs/SMALL_PHOTO/Robin.jpg,imgs/LARGE_PHOTO/Robin_SSBU.jpg,0,0,1,0,,0,1,1,1,0,0
+57,Shulk,Xenoblade Chronicles,2010,4,SSB4,N/A,1,0,0,1,0,0,1.7,0.675,1.1475,97,imgs/SMALL_PHOTO/Shulk.jpg,imgs/LARGE_PHOTO/Shulk_SSBU.jpg,1,0,0,0,,0,1,1,1,0,0
+58,Bowser Jr,Super Mario,2002,12,SSB4,N/A,1,1,0,0,1,0,1.6,1.1,1.76,108,imgs/SMALL_PHOTO/BowserJr.jpg,imgs/LARGE_PHOTO/BowserJr_SSBU.jpg,1,0,0,1,,0,1,0,0,1,1
+59,Duck Hunt,Duck Hunt,1984,30,SSB4,N/A,0,0,1,0,1,0,1.125,1,1.125,86,imgs/SMALL_PHOTO/DuckHunt.jpg,imgs/LARGE_PHOTO/DuckHunt_SSBU.jpg,1,0,0,0,,0,0,1,0,0,0
+60,Ryu,Street Fighter,1987,28,SSB4,N/A,1,0,0,0,0,1,1.65,0.8,1.32,103,imgs/SMALL_PHOTO/Ryu.jpg,imgs/LARGE_PHOTO/Ryu_SSBU.jpg,0,0,0,0,,0,1,0,0,1,1
+61,Ken,Street Fighter,1987,31,Ultimate,N/A,1,0,0,0,0,1,1.65,0.8,1.32,103,imgs/SMALL_PHOTO/Ken.jpg,imgs/LARGE_PHOTO/Ken_SSBU.jpg,0,0,0,0,,0,0,0,1,0,0
+62,Cloud,Final Fantasy 7,1997,18,SSB4,N/A,1,0,0,1,0,0,1.6,0.9,1.44,100,imgs/SMALL_PHOTO/Cloud.jpg,imgs/LARGE_PHOTO/Cloud_SSBU.jpg,0,1,0,0,,0,0,0,1,0,1
+63,Corrin,Fire Emblem,2015,1,SSB4,N/A,1,1,0,1,0,0,1.7,0.6,1.02,98,imgs/SMALL_PHOTO/Corrin.jpg,imgs/LARGE_PHOTO/Corrin_SSBU.jpg,0,0,0,1,,1,1,1,1,1,0
+64,Bayonetta,Bayonetta,2009,7,SSB4,N/A,0,1,0,1,0,0,1.85,0.6,1.11,81,imgs/SMALL_PHOTO/Bayonetta.jpg,imgs/LARGE_PHOTO/Bayonetta_SSBU.jpg,0,1,0,0,,1,0,1,1,0,0
+65,Inkling,Splatoon,2015,3,Ultimate,N/A,1,1,0,0,0,1,1.3,1,1.3,94,imgs/SMALL_PHOTO/Inkling.jpg,imgs/LARGE_PHOTO/Inkling_SSBU.jpg,0,0,1,0,,1,1,1,0,1,0
+66,Ridley,Metroid,1986,32,Ultimate,N/A,1,0,0,0,1,0,2.1,1.9,3.99,107,imgs/SMALL_PHOTO/Ridley.jpg,imgs/LARGE_PHOTO/Ridley_SSBU.jpg,0,0,0,0,,1,1,1,1,0,0
+67,Simon,Castlevania,1986,32,Ultimate,N/A,1,0,0,1,0,0,1.625,0.9,1.4625,107,imgs/SMALL_PHOTO/Simon.jpg,imgs/LARGE_PHOTO/Simon_SSBU.jpg,1,0,0,0,,1,0,1,0,1,1
+68,Richter,Castlevania,1993,25,Ultimate,N/A,1,0,0,1,0,0,1.625,0.9,1.4625,107,imgs/SMALL_PHOTO/Richter.jpg,imgs/LARGE_PHOTO/Richter_SSBU.jpg,1,0,0,0,,1,0,1,0,1,0
+69,King K. Rool,Donkey Kong,1994,24,Ultimate,N/A,1,0,0,0,1,0,2.15,1.6,3.44,133,imgs/SMALL_PHOTO/KingKRool.jpg,imgs/LARGE_PHOTO/KingKRool_SSBU.jpg,1,0,0,0,,1,1,1,1,0,0
+70,Isabelle,Animal Crossing,2012,6,Ultimate,N/A,0,1,0,0,0,1,1.3,0.7,0.91,88,imgs/SMALL_PHOTO/Isabelle.jpg,imgs/LARGE_PHOTO/Isabelle_SSBU.jpg,0,1,0,0,,0,1,1,0,0,0
+71,Incineroar,Pokemon,2016,2,Ultimate,N/A,1,1,0,0,0,1,1.7,1.2,2.04,116,imgs/SMALL_PHOTO/Incineroar.jpg,imgs/LARGE_PHOTO/Incineroar_SSBU.jpg,0,0,0,0,,1,0,1,1,0,0
+72,Piranha Plant,Super Mario,1985,34,Ultimate,N/A,0,0,1,0,1,0,1.6,1,1.6,112,imgs/SMALL_PHOTO/PiranhaPlant.jpg,imgs/LARGE_PHOTO/PiranhaPlant_SSBU.jpg,1,0,0,1,,1,1,1,0,0,1
+73,Joker,Persona 5,2016,3,Ultimate,N/A,1,0,0,1,0,0,1.7,0.6,1.02,93,imgs/SMALL_PHOTO/Joker.jpg,imgs/LARGE_PHOTO/Joker_SSBU.jpg,0,1,0,0,,1,1,1,1,1,0
+74,Hero,Dragon Quest,1988,31,Ultimate,N/A,1,0,0,1,0,0,1.7,0.7,1.19,101,imgs/SMALL_PHOTO/Hero.jpg,imgs/LARGE_PHOTO/Hero_SSBU.jpg,1,0,1,1,,0,1,0,0,0,0
+75,Banjo and Kazooie,Banjo Kazooie,1997,22,Ultimate,N/A,1,1,0,1,0,0,1.5,1,1.5,106,imgs/SMALL_PHOTO/Banjo.jpg,imgs/LARGE_PHOTO/Banjo_SSBU.jpg,0,1,0,1,,0,1,0,0,0,1
+76,Terry,Fatal Fury,1991,28,Ultimate,N/A,1,0,0,1,0,0,1.7,0.8,1.36,108,imgs/SMALL_PHOTO/Terry.jpg,imgs/LARGE_PHOTO/Terry_SSBU.jpg,1,1,0,0,,0,1,1,0,1,1
+77,Byleth,Fire Emblem,2019,1,Ultimate,N/A,1,1,0,1,0,0,1.75,0.6,1.05,97,imgs/SMALL_PHOTO/Byleth.jpg,imgs/LARGE_PHOTO/Byleth_SSBU.jpg,0,0,1,1,,1,0,0,1,0,0
+78,Min Min,Arms,2017,3,Ultimate,N/A,0,1,0,0,0,1,1.5,1.2,1.8,104,imgs/SMALL_PHOTO/MinMin.jpg,imgs/LARGE_PHOTO/MinMin_SSBU.jpg,1,0,0,0,,1,0,1,1,1,1
+79,Steve,Minecraft,2011,9,Ultimate,N/A,1,1,0,0,0,1,1.5,0.65,0.975,92,imgs/SMALL_PHOTO/Steve.jpg,imgs/LARGE_PHOTO/Steve_SSBU.jpg,0,0,1,0,,0,1,1,1,1,0
+80,Sephiroth,Final Fantasy 7,1997,23,Ultimate,N/A,1,0,0,0,1,0,1.95,0.6,1.17,79,imgs/SMALL_PHOTO/Sephiroth.jpg,imgs/LARGE_PHOTO/Sephiroth_SSBU.jpg,0,1,0,1,,1,1,1,1,0,1
+81,Pyra/Mythra,Xenoblade Chronicles,2017,4,Ultimate,N/A,0,1,0,1,0,0,1.7375,0.55,0.955625,95,imgs/SMALL_PHOTO/Pyra.jpg,imgs/LARGE_PHOTO/PyraMythra_SSBU.jpg,0,0,1,1,,1,0,1,1,0,0
+82,Kazuya,Tekken,1994,27,Ultimate,N/A,1,0,0,0,1,0,1.79,0.8,1.432,113,imgs/SMALL_PHOTO/Kazuya.jpg,imgs/LARGE_PHOTO/Kazuya_SSBU.jpg,1,1,0,0,,1,1,0,1,0,0
+83,Sora,Kingdom Hearts,2002,19,Ultimate,N/A,1,0,0,1,0,0,1.4,0.7,0.98,85,imgs/SMALL_PHOTO/Sora.jpg,imgs/LARGE_PHOTO/Sora_SSBU.jpg,0,1,0,0,,1,0,0,0,1,0
