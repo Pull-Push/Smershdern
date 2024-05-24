@@ -7,3 +7,5 @@
 5/15/24 - Scorched Earth - Delete Django app to redo - reinit of wheel project and sqlite db
 
 5/17/24 - work on the custom smashdown randomizer
+
+5/21/24 - made progress of the randomizer. need to figure out how to link CSV files together. Might need to rework and set everything up as SQLite to place nice with DJANGO.
