@@ -11,3 +11,5 @@
 5/21/24 - made progress of the randomizer. need to figure out how to link CSV files together. Might need to rework and set everything up as SQLite to place nice with DJANGO.
 
 5/24/24 - found much better way to set up randomized. need to figure out removal of duplicates from each list
+
+5/25/24 - finished the randomizer..finally. need to port output to view to display on front end

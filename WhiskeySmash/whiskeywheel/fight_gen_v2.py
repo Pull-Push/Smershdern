@@ -26,14 +26,33 @@ def fight_setup(*args):
         new_v = random.sample(v, len(v))
         randomized_fight_dict[k] = new_v
     #< REMOVE DUPES FROM EACH LIST  - Get index of dupes and remove latter
-    #!NOT WORKING. NEED TO FIND WAY TO CHECK 1 and 3
-    #pseduo - make temp list of number 1 then check all others. advance temp and check again
     scrubbed_fight_list = []
     for k,v in randomized_fight_dict.items():
         scrubbed_fight_list.append([k,v])
-
+    for t in scrubbed_fight_list:
+    #<set up temporary list to compare to others
+        for c in scrubbed_fight_list:
+            #<set up compared list
+            if t[0] == c[0]:
+                continue
+            else:
+                #< compare list indicies and remove highest index duplicate. if equal remove both!
+                # print('comparing', t[0], 'to', c[0])
+                for x in t[1]:
+                    if x in c[1]:
+                        # print(t[0], t[1].index(x), x)
+                        # print(c[0], c[1].index(x), x)
+                        comp_a = t[1].index(x)
+                        comp_b = c[1].index(x)
+                        if comp_a < comp_b:
+                            c[1].remove(x)
+                        elif comp_b < comp_a:
+                            t[1].remove(x)
+                        else:
+                            t[1].remove(x)
+                            c[1].remove(x)
     return scrubbed_fight_list
 
 
-fight_setup(str.title('sokol'), str.title('reen'), str.title('Steve'), str.title('joe'), str.title('bill'))
-# print(fight_setup(str.title('sokol'), str.title('reen'), str.title('Steve'), str.title('joe'), str.title('bill')))
+# fight_setup(str.title('sokol'), str.title('reen'), str.title('Steve'), str.title('joe'), str.title('bill'))
+print('---------', fight_setup(str.title('sokol'), str.title('reen'), str.title('Steve'), str.title('joe'), str.title('bill')))
