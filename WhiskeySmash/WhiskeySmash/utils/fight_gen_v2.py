@@ -1,9 +1,10 @@
 import pandas as pd
 import random
 
-member = pd.read_csv('WhiskeySmash/whiskeywheel/CSV/WW_MEMBER_202405142034.csv')
-member_fighters = pd.read_csv('WhiskeySmash/whiskeywheel/CSV/fighter_wheel_202405142034.csv')
-fighters = pd.read_csv('WhiskeySmash/whiskeywheel/CSV/FIGHTER_202405142034.csv')
+member = pd.read_csv('WhiskeySmash/CSV/WW_MEMBER_202405142034.csv')
+member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202405142034.csv')
+fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202405142034.csv')
+
 
 
 #< Verifies players are in member db file
@@ -37,11 +38,8 @@ def fight_setup(*args):
                 continue
             else:
                 #< compare list indicies and remove highest index duplicate. if equal remove both!
-                # print('comparing', t[0], 'to', c[0])
                 for x in t[1]:
                     if x in c[1]:
-                        # print(t[0], t[1].index(x), x)
-                        # print(c[0], c[1].index(x), x)
                         comp_a = t[1].index(x)
                         comp_b = c[1].index(x)
                         if comp_a < comp_b:
@@ -51,8 +49,4 @@ def fight_setup(*args):
                         else:
                             t[1].remove(x)
                             c[1].remove(x)
-    return scrubbed_fight_list
-
-
-# fight_setup(str.title('sokol'), str.title('reen'), str.title('Steve'), str.title('joe'), str.title('bill'))
-print('---------', fight_setup(str.title('sokol'), str.title('reen'), str.title('Steve'), str.title('joe'), str.title('bill')))
+    return dict(scrubbed_fight_list)
