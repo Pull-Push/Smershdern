@@ -5,3 +5,31 @@ h1{
 h2{
     color: red;
 }
+
+h3{
+    text-align: center;
+}
+
+img{
+    width: 40px;
+}
+
+.fighter_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.member_div{
+    align-items: center;
+    width: fit-content;
+}
+
+
+p{
+    display: inline-block;
+}
+
+li{
+    list-style-type: none;
+}

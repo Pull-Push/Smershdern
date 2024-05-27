@@ -1,19 +1,45 @@
 {% extends "whiskeywheel/base.html" %}
 {% load static %}
 {% block head%}
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{% static 'whiskeywheel/style.css' %}">
-    <title>Wheeling and dealing</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="{% static 'whiskeywheel/style.css' %}">
+<title>Wheeling and dealing</title>
 {% endblock %}
 
-    {% block content %}
-    <h2>Wheel page header</h1>
+{% block content %}
+<h2>WW CUSTOM SMASH</h1>
+    <form action="#" method="post">
+        <input type="text" name="fight1" id="fight1">
+        <input type="text" name="fight2" id="fight2">
+        <input type="text" name="fight3" id="fight3">
+        <input type="submit" value="Generate Smashdown">
+    </form>
 
-    {{ Sokol }}
-    <p>-----------</p>
-    {{ Reen }}
-    <p>----------------------</p>
-    {{ Joe }}
-
+    <div class="fighter_div">
+        <div class="member_div">
+            <h3>Sokol</h3>
+            <ul>
+            {% for x in Sokol%}
+            <li> <img src='static/whiskeywheel/imgs/SMALL_PHOTO/{{x}}.jpg'>{{x}}</li>
+            {% endfor%}
+            </ul>
+        </div>
+        <div class="member_div">
+            <h3>Reen</h3>
+            <ul>
+                {% for x in Reen%}
+                <li> <img src='static/whiskeywheel/imgs/SMALL_PHOTO/{{x}}.jpg'>{{x}}</li>
+                {% endfor%}
+                </ul>
+        </div>
+        <div class="member_div">
+            <h3>Joe</h3>
+            <ul>
+                {% for x in Joe%}
+                <li> <img src='static/whiskeywheel/imgs/SMALL_PHOTO/{{x}}.jpg'>{{x}}</li>
+                {% endfor%}
+                </ul>
+        </div>
+    </div>
     {% endblock %}
