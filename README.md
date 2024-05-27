@@ -13,3 +13,5 @@
 5/24/24 - found much better way to set up randomized. need to figure out removal of duplicates from each list
 
 5/25/24 - finished the randomizer..finally. need to port output to view to display on front end
+
+5/27/24 - reorganized file stucture to allow operation to function properly
