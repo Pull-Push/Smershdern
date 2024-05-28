@@ -9,16 +9,47 @@
 
 {% block content %}
 <h2>WW CUSTOM SMASH</h1>
-    <form action="#" method="post">
+    <form action="/wheelsend" method="POST">
+        {% csrf_token %}
+        <label for="fight1">PLAYER1:</label>
         <input type="text" name="fight1" id="fight1">
+        <label for="fight1">PLAYER2:</label>
         <input type="text" name="fight2" id="fight2">
+        <label for="fight1">PLAYER3:</label>
         <input type="text" name="fight3" id="fight3">
+
         <input type="submit" value="Generate Smashdown">
     </form>
 
+{% for player in PLAYER %}
+{{player}}
+{% endfor %}
+
+{% for fighter in player.FIGHTERS %}
+{{figter}}
+{% endfor %}
+
+{% for k, v in PLAYER.items %}
+<tr>
+    <h4>ONE</h4>
+  <td>ONE {{ k }}:{{ v }}</td>
+  <h4>TWO</h4>
+    {% for k2, v2 in v.items %}
+      <td>TWO {{ k2 }}:{{ v2 }}</td>
+      <h4>THREE</h4>
+      {% for k3 in v2 %}
+        <td>THREE {{ k3 }}</td>
+      {% endfor %}
+    {% endfor %}
+</tr>
+{% endfor %}
+
+
+
+
     <div class="fighter_div">
         <div class="member_div">
-            <h3>Sokol</h3>
+            <h3>PLAYER1</h3>
             <ul>
             {% for x in Sokol%}
             <li> <img src='static/whiskeywheel/imgs/SMALL_PHOTO/{{x}}.jpg'>{{x}}</li>
@@ -26,7 +57,7 @@
             </ul>
         </div>
         <div class="member_div">
-            <h3>Reen</h3>
+            <h3>PLAYER 2</h3>
             <ul>
                 {% for x in Reen%}
                 <li> <img src='static/whiskeywheel/imgs/SMALL_PHOTO/{{x}}.jpg'>{{x}}</li>
@@ -34,7 +65,7 @@
                 </ul>
         </div>
         <div class="member_div">
-            <h3>Joe</h3>
+            <h3>PLAYER 3</h3>
             <ul>
                 {% for x in Joe%}
                 <li> <img src='static/whiskeywheel/imgs/SMALL_PHOTO/{{x}}.jpg'>{{x}}</li>
