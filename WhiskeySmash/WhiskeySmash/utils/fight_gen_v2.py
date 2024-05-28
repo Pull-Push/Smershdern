@@ -1,9 +1,9 @@
 import pandas as pd
 import random
 
-member = pd.read_csv('WhiskeySmash/CSV/WW_MEMBER_202405142034.csv')
-member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202405142034.csv')
-fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202405142034.csv')
+member = pd.read_csv('WhiskeySmash/CSV/WW_MEMBER_202405281145.csv')
+member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202405281145.csv')
+fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202405281145.csv')
 
 
 
