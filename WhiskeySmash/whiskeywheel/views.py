@@ -10,8 +10,7 @@ def home(request):
     return render(request, 'whiskeywheel/index.html', context)
 
 def wheel(request):
-    context = fight_setup(str.title('sokol'),str.title('reen'),str.title('joe'))
-    print(context)
+    context = fight_setup(str.title('sokol'),str.title('reen'),str.title('joe'), str.title('bill'))
     return render(request, 'whiskeywheel/wheelpage.html', context)
 
 def wheelsend(request):

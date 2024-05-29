@@ -15,62 +15,26 @@
         <input type="text" name="fight1" id="fight1">
         <label for="fight1">PLAYER2:</label>
         <input type="text" name="fight2" id="fight2">
-        <label for="fight1">PLAYER3:</label>
-        <input type="text" name="fight3" id="fight3">
-
+        <button>Add Fighter</button>
+        <button>Remove Fighter</button>
         <input type="submit" value="Generate Smashdown">
     </form>
 
-{% for player in PLAYER %}
-{{player}}
-{% endfor %}
-
-{% for fighter in player.FIGHTERS %}
-{{figter}}
-{% endfor %}
-
-{% for k, v in PLAYER.items %}
-<tr>
-    <h4>ONE</h4>
-  <td>ONE {{ k }}:{{ v }}</td>
-  <h4>TWO</h4>
-    {% for k2, v2 in v.items %}
-      <td>TWO {{ k2 }}:{{ v2 }}</td>
-      <h4>THREE</h4>
-      {% for k3 in v2 %}
-        <td>THREE {{ k3 }}</td>
-      {% endfor %}
-    {% endfor %}
-</tr>
-{% endfor %}
-
-
-
-
     <div class="fighter_div">
+        {% for k, v in PLAYER.items %}
         <div class="member_div">
-            <h3>PLAYER1</h3>
+            <h2>{{k}}</h2>
+                {% for k2, v2 in v.items %}
             <ul>
-            {% for x in Sokol%}
-            <li> <img src='static/whiskeywheel/imgs/SMALL_PHOTO/{{x}}.jpg'>{{x}}</li>
-            {% endfor%}
+                {% for k3 in v2 %}
+            <li> <img class="icon" src='static/whiskeywheel/imgs/SMALL_PHOTO/{{k3}}.jpg'>
+            <p>{{k3}}</p>
+            </li>
+                {% endfor %}
             </ul>
+            {% endfor %}
+            <h2>{{k}}</h2>
         </div>
-        <div class="member_div">
-            <h3>PLAYER 2</h3>
-            <ul>
-                {% for x in Reen%}
-                <li> <img src='static/whiskeywheel/imgs/SMALL_PHOTO/{{x}}.jpg'>{{x}}</li>
-                {% endfor%}
-                </ul>
-        </div>
-        <div class="member_div">
-            <h3>PLAYER 3</h3>
-            <ul>
-                {% for x in Joe%}
-                <li> <img src='static/whiskeywheel/imgs/SMALL_PHOTO/{{x}}.jpg'>{{x}}</li>
-                {% endfor%}
-                </ul>
-        </div>
+        {% endfor %}
     </div>
     {% endblock %}
