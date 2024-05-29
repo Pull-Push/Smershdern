@@ -9,27 +9,33 @@
 
 {% block content %}
 <h2>WW CUSTOM SMASH</h1>
-    <form action="/wheelsend" method="POST">
+    <form id='fighterform' action="/wheelsend" method="POST">
         {% csrf_token %}
         <label for="fight1">PLAYER1:</label>
         <input type="text" name="fight1" id="fight1">
-        <label for="fight1">PLAYER2:</label>
-        <input type="text" name="fight2" id="fight2">
-        <button>Add Fighter</button>
-        <button>Remove Fighter</button>
+        <label for="fight2">PLAYER2:</label>
+        <input type="text" name="fight2" id="fight2"> 
+        <label for="fight3">PLAYER3:</label>
+        <input type="text" name="fight3" id="fight3">
+        <label for="fight4">PLAYER4:</label>
+        <input type="text" name="fight4" id="fight4">
+        <label for="fight5">PLAYER5:</label>
+        <input type="text" name="fight5" id="fight5">
+        <label for="fight6">PLAYER6:</label>
+        <input type="text" name="fight6" id="fight6">
+
         <input type="submit" value="Generate Smashdown">
     </form>
-
     <div class="fighter_div">
         {% for k, v in PLAYER.items %}
         <div class="member_div">
             <h2>{{k}}</h2>
-                {% for k2, v2 in v.items %}
+            {% for k2, v2 in v.items %}
             <ul>
                 {% for k3 in v2 %}
-            <li> <img class="icon" src='static/whiskeywheel/imgs/SMALL_PHOTO/{{k3}}.jpg'>
-            <p>{{k3}}</p>
-            </li>
+                <li> <img class="icon" src='static/whiskeywheel/imgs/SMALL_PHOTO/{{k3}}.jpg'>
+                    <p>{{k3}}</p>
+                </li>
                 {% endfor %}
             </ul>
             {% endfor %}
@@ -37,4 +43,5 @@
         </div>
         {% endfor %}
     </div>
+    <script src="{% static 'whiskeywheel/script.js' %}"></script>
     {% endblock %}

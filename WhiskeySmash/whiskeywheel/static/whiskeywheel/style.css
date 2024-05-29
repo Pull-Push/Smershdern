@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    height: 95%;
+}
 img{
     margin: 0 auto;
     width: 60px;
@@ -10,15 +12,14 @@ img{
 
 
 .fighter_div{
-    margin: 0 auto;
-    margin-top: 15px;
-    width: 95%;
+    margin: 10px auto;
+    width:99%;
     display: flex;
     background-color:slategrey;
     justify-content: space-evenly;
 }
 .member_div{
-    margin-top: 15px;
+    padding: 25px;
     display: flex;
     flex-direction: column;
     width: fit-content;
@@ -32,8 +33,6 @@ li{
     height: fit-content;
     margin: 0 auto;
 }
-
-
 
 p{
     text-align: center;

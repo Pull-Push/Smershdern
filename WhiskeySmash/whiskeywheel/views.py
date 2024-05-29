@@ -10,9 +10,14 @@ def home(request):
     return render(request, 'whiskeywheel/index.html', context)
 
 def wheel(request):
-    context = fight_setup(str.title('sokol'),str.title('reen'),str.title('joe'), str.title('bill'))
-    return render(request, 'whiskeywheel/wheelpage.html', context)
+    return render(request, 'whiskeywheel/wheelpage.html')
 
 def wheelsend(request):
-    context = fight_setup(str.title('sokol'),str.title('bill'),str.title('joe'))
+    fighter1 = request.POST['fight1']
+    fighter2 = request.POST['fight2']
+    fighter3 = request.POST['fight3']
+    fighter4 = request.POST['fight4']
+    fighter5 = request.POST['fight5']
+    fighter6 = request.POST['fight6']
+    context = fight_setup(str.title(fighter1),str.title(fighter2),str.title(fighter3), str.title(fighter4), str.title(fighter5))
     return render(request, 'whiskeywheel/wheelpage.html', context)
