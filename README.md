@@ -15,3 +15,5 @@
 5/25/24 - finished the randomizer..finally. need to port output to view to display on front end
 
 5/27/24 - reorganized file stucture to allow operation to function properly
+
+5/29/24 - css updates for random page. need to address random length issue(add non character fighters to balance? maybe?)
