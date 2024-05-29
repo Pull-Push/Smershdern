@@ -5,9 +5,9 @@ from WhiskeySmash.utils.fight_gen_v3 import fight_setup
 # Create your views here.
 
 
-def home(request):
-    context = {'name':'mario'}
-    return render(request, 'whiskeywheel/index.html', context)
+# def home(request):
+#     context = {'name':'mario'}
+#     return render(request, 'whiskeywheel/index.html', context)
 
 def wheel(request):
     return render(request, 'whiskeywheel/wheelpage.html')
@@ -19,5 +19,5 @@ def wheelsend(request):
     fighter4 = request.POST['fight4']
     fighter5 = request.POST['fight5']
     fighter6 = request.POST['fight6']
-    context = fight_setup(str.title(fighter1),str.title(fighter2),str.title(fighter3), str.title(fighter4), str.title(fighter5))
+    context = fight_setup(str.title(fighter1),str.title(fighter2),str.title(fighter3), str.title(fighter4), str.title(fighter5), str.title(fighter6))
     return render(request, 'whiskeywheel/wheelpage.html', context)

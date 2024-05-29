@@ -6,7 +6,6 @@ member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202405281145.csv')
 fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202405281145.csv')
 
 
-
 #< Verifies players are in member db file
 def fight_setup(*args):
     merged_v1 = member.merge(member_fighters, how='inner', on='member_id')
@@ -20,12 +19,12 @@ def fight_setup(*args):
     for x in named_found_fighters:
         final_dict['PLAYER'][x] = {"FIGHTERS":[]}
     #<Creates dictionary for each verified played
-    fight_dict = {}
     #<Populates dictionary value with randomized list of personal smash characters
+    match_fighters = []
     for x in final_dict['PLAYER']:
         player_fighter_list = random.sample(list(ind_smash_list.get_group((x,))['FIGHTER_NAME']), len(list(ind_smash_list.get_group((x,))['FIGHTER_NAME'])))
+        match_fighters.append(player_fighter_list)
         final_dict['PLAYER'][x]['FIGHTERS'] = player_fighter_list
-    # print('FINAL DICT', final_dict)
     #< REMOVE DUPES FROM EACH LIST  - Get index of dupes and remove latter
     for tk,tv in final_dict['PLAYER'].items():
         for ck, cv in final_dict['PLAYER'].items():
@@ -46,8 +45,30 @@ def fight_setup(*args):
                         else:
                             tv['FIGHTERS'].remove(tm)
                             cv['FIGHTERS'].remove(tm)
+    total_match_fighters = []
+    for x in match_fighters:
+        for y in x:
+            total_match_fighters.append(y)
+    print('match_fighter',total_match_fighters)
+    # # print('all fighters', list(fighters["FIGHTER_NAME"]))
+    remainder_fighters = []
+    #! FIX PIKA REF!!!!!
+    for af in list(fighters["FIGHTER_NAME"]):
+        if af in total_match_fighters:
+            continue
+        else:
+            print('not found', af)
     return final_dict
 
 
+# def evenout(dict):
+#     #GET MAX LENGTH OF ALL FIGHTER LISTS
+#     max = 0 
+#     for k,v in dict['PLAYER'].items():
+#         if len(v['FIGHTERS']) >= max:
+#             max = len(v["FIGHTERS"])
+#         # print(k, len(v["FIGHTERS"]))
+#     #GET LIST OF CHARACTERS NOT ASSOCIATED WITH PLAYERS
+#     return
 
-# print(fight_setup(str.title('Reen'), str.title('joe'), str.title('sokol')))
+fight_setup(str.title('Sokol'),str.title('Reen'),str.title("Joe"))
