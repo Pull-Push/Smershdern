@@ -5,12 +5,11 @@ member = pd.read_csv('WhiskeySmash/CSV/WW_MEMBER_202406032045.csv')
 member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202406032045.csv')
 fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202406032045.csv')
 
-#! MAX FIGHTS PER PLAYER - 2p 41, 3p 27, 4p 20, 5p 16, 6p 13, 7p 11, 8p 10
-
 
 
 #< Verifies players are in member db file
 def fight_setup(*args):
+    fight_total = {2:41, 3:27, 4:20, 5:16, 6:13, 7:11, 8:10}
     merged_v1 = member.merge(member_fighters, how='inner', on='member_id')
     merged_v2 = merged_v1.merge(fighters, how='inner', on='FIGHTER_ID')
     ind_smash_list = merged_v2.groupby(['member_name'])
@@ -49,18 +48,32 @@ def fight_setup(*args):
                             tv['FIGHTERS'].remove(tm)
                             cv['FIGHTERS'].remove(tm)
     total_match_fighters = []
+    #! EVEN OUT FIGHTERS
     for x in match_fighters:
         for y in x:
             total_match_fighters.append(y)
-    print('match_fighter',total_match_fighters)
+    # print(len(total_match_fighters), 'total_match_fighter',total_match_fighters)
     # # print('all fighters', list(fighters["FIGHTER_NAME"]))
+    # print('final', final_dict)
     remainder_fighters = []
     #< FIX PIKA REF!!!!! DONE
     for af in list(fighters["FIGHTER_NAME"]):
         if af in total_match_fighters:
             continue
         else:
-            print('not found', af)
+            remainder_fighters.append(af)
+    total_number_of_players = len(named_found_fighters)
+    total_smashdown_fights = fight_total[total_number_of_players]
+    for x in final_dict['PLAYER'].values():
+        while len(x['FIGHTERS']) > total_smashdown_fights:
+            x['FIGHTERS'].remove(random.sample(x['FIGHTERS'], 1)[0])
+        while len(x['FIGHTERS']) < total_smashdown_fights:
+            added_fighter = random.sample(remainder_fighters, 1)[0]
+            print(added_fighter)
+            x['FIGHTERS'].append(added_fighter)
+            remainder_fighters.remove(added_fighter)
+    # print(len(named_found_fighters), named_found_fighters)
+    
     return final_dict
 
 
@@ -74,4 +87,4 @@ def fight_setup(*args):
 #     #GET LIST OF CHARACTERS NOT ASSOCIATED WITH PLAYERS
 #     return
 
-fight_setup(str.title('Sokol'),str.title('Reen'),str.title("Joe"))
+# fight_setup(str.title('Sokol'),str.title('Reen'),str.title("Joe"),str.title("fart"))
