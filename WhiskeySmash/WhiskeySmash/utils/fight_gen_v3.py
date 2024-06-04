@@ -33,9 +33,6 @@ def fight_setup(*args):
             if tk == ck:
                 continue
             else:
-                # print('comparing', tk, 'to', ck)
-                # print('test fighter', tv['FIGHTERS'])
-                # print('compare fighter', cv['FIGHTERS'])
                 for tm in tv['FIGHTERS']:
                     if tm in cv['FIGHTERS']:
                         comp_a = tv['FIGHTERS'].index(tm)
@@ -48,15 +45,11 @@ def fight_setup(*args):
                             tv['FIGHTERS'].remove(tm)
                             cv['FIGHTERS'].remove(tm)
     total_match_fighters = []
-    #! EVEN OUT FIGHTERS
+    #< EVEN OUT FIGHTERS WITH REMAINING FIGHTERS
     for x in match_fighters:
         for y in x:
             total_match_fighters.append(y)
-    # print(len(total_match_fighters), 'total_match_fighter',total_match_fighters)
-    # # print('all fighters', list(fighters["FIGHTER_NAME"]))
-    # print('final', final_dict)
     remainder_fighters = []
-    #< FIX PIKA REF!!!!! DONE
     for af in list(fighters["FIGHTER_NAME"]):
         if af in total_match_fighters:
             continue
@@ -69,22 +62,8 @@ def fight_setup(*args):
             x['FIGHTERS'].remove(random.sample(x['FIGHTERS'], 1)[0])
         while len(x['FIGHTERS']) < total_smashdown_fights:
             added_fighter = random.sample(remainder_fighters, 1)[0]
-            print(added_fighter)
             x['FIGHTERS'].append(added_fighter)
-            remainder_fighters.remove(added_fighter)
-    # print(len(named_found_fighters), named_found_fighters)
-    
+            remainder_fighters.remove(added_fighter)    
     return final_dict
-
-
-# def evenout(dict):
-#     #GET MAX LENGTH OF ALL FIGHTER LISTS
-#     max = 0 
-#     for k,v in dict['PLAYER'].items():
-#         if len(v['FIGHTERS']) >= max:
-#             max = len(v["FIGHTERS"])
-#         # print(k, len(v["FIGHTERS"]))
-#     #GET LIST OF CHARACTERS NOT ASSOCIATED WITH PLAYERS
-#     return
 
 # fight_setup(str.title('Sokol'),str.title('Reen'),str.title("Joe"),str.title("fart"))

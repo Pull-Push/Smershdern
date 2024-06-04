@@ -9,7 +9,9 @@ img{
     margin: 0 auto;
     width: 60px;
 }
-
+#player{
+    display: none;
+}
 
 .fighter_div{
     margin: 10px auto;
@@ -37,3 +39,4 @@ li{
 p{
     text-align: center;
 }
+
