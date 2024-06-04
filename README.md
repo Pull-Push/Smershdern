@@ -18,4 +18,4 @@
 
 5/29/24 - css updates for random page. need to address random length issue(add non character fighters to balance? maybe?)
 
-6/3/24  - fixed data for fighters and added dash speed
+6/3/24  - fixed data for fighters and added dash speed - TODO - add max fights per number of players

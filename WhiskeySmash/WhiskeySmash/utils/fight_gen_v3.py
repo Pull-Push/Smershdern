@@ -5,6 +5,9 @@ member = pd.read_csv('WhiskeySmash/CSV/WW_MEMBER_202406032045.csv')
 member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202406032045.csv')
 fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202406032045.csv')
 
+#! MAX FIGHTS PER PLAYER - 2p 41, 3p 27, 4p 20, 5p 16, 6p 13, 7p 11, 8p 10
+
+
 
 #< Verifies players are in member db file
 def fight_setup(*args):
