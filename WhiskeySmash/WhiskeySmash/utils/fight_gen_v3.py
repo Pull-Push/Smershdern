@@ -1,9 +1,9 @@
 import pandas as pd
 import random
 
-member = pd.read_csv('WhiskeySmash/CSV/WW_MEMBER_202405281145.csv')
-member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202405281145.csv')
-fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202405281145.csv')
+member = pd.read_csv('WhiskeySmash/CSV/WW_MEMBER_202406032045.csv')
+member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202406032045.csv')
+fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202406032045.csv')
 
 
 #< Verifies players are in member db file
@@ -52,7 +52,7 @@ def fight_setup(*args):
     print('match_fighter',total_match_fighters)
     # # print('all fighters', list(fighters["FIGHTER_NAME"]))
     remainder_fighters = []
-    #! FIX PIKA REF!!!!!
+    #< FIX PIKA REF!!!!! DONE
     for af in list(fighters["FIGHTER_NAME"]):
         if af in total_match_fighters:
             continue
