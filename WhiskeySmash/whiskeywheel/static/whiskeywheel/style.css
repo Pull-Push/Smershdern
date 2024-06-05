@@ -27,16 +27,14 @@ img{
     width: fit-content;
     text-align: center;
 }
-
-
-li{
-    display: inline;
+.gsd{
     width: fit-content;
-    height: fit-content;
     margin: 0 auto;
 }
 
+
+
 p{
+    display: inline;
     text-align: center;
 }
-

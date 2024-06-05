@@ -19,5 +19,7 @@ def wheelsend(request):
     fighter4 = request.POST['fight4']
     fighter5 = request.POST['fight5']
     fighter6 = request.POST['fight6']
-    context = fight_setup(str.title(fighter1),str.title(fighter2),str.title(fighter3), str.title(fighter4), str.title(fighter5), str.title(fighter6))
+    fighter7 = request.POST['fight7']
+    fighter8 = request.POST['fight8']
+    context = fight_setup(str.title(fighter1),str.title(fighter2),str.title(fighter3), str.title(fighter4), str.title(fighter5), str.title(fighter6), str.title(fighter7), str.title(fighter8))
     return render(request, 'whiskeywheel/wheelpage.html', context)

@@ -1,9 +1,9 @@
 import pandas as pd
 import random
 
-member = pd.read_csv('WhiskeySmash/CSV/WW_MEMBER_202406032045.csv')
-member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202406032045.csv')
-fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202406032045.csv')
+member = pd.read_csv('WhiskeySmash/CSV/WW_MEMBER_202406042059.csv')
+member_fighters = pd.read_csv('WhiskeySmash/CSV/fighter_wheel_202406042059.csv')
+fighters = pd.read_csv('WhiskeySmash/CSV/FIGHTER_202406042059.csv')
 
 
 
@@ -16,6 +16,8 @@ def fight_setup(*args):
     final_dict = {"PLAYER":{}}
     #<GET FIGHTER LIST FOR EACH MEMBER IN INITIALIZATION
     member_list = args
+    if member_list == ('', '', '', '', '', '', '', ''):
+        member_list = (('Player 1', 'Player 2', '', '', '', '', '', ''))
     found_fighters = merged_v2[merged_v2['member_name'].isin(member_list)]
     named_found_fighters = set(found_fighters['member_name'])
     for x in named_found_fighters:
