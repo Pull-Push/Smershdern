@@ -3,6 +3,7 @@ from django.urls import include, path
 from . import views
 
 urlpatterns =[
-    path('', views.wheel),
+    path('', views.home),
+    path('wheel', views.wheel),
     path('wheelsend', views.wheelsend)
 ]

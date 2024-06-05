@@ -5,9 +5,9 @@ from WhiskeySmash.utils.fight_gen_v3 import fight_setup
 # Create your views here.
 
 
-# def home(request):
-#     context = {'name':'mario'}
-#     return render(request, 'whiskeywheel/index.html', context)
+def home(request):
+    context = {'name':'mario'}
+    return render(request, 'whiskeywheel/index.html', context)
 
 def wheel(request):
     return render(request, 'whiskeywheel/wheelpage.html')
