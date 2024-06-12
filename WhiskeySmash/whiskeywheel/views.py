@@ -2,11 +2,12 @@ from django.shortcuts import render
 from django.http import HttpRequest, HttpResponse
 from django.shortcuts import render
 from WhiskeySmash.utils.fight_gen_v3 import fight_setup
+from WhiskeySmash.utils.home_render import createGrid
 # Create your views here.
 
 
 def home(request):
-    context = {'name':'mario'}
+    context = createGrid()
     return render(request, 'whiskeywheel/index.html', context)
 
 def wheel(request):

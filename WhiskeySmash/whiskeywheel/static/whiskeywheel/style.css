@@ -5,6 +5,11 @@
 body{
     height: 95%;
 }
+.char_row{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 img{
     margin: 0 auto;
     width: 60px;
