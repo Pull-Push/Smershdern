@@ -1,0 +1,1613 @@
+{
+"fighter_wheel": [
+	{
+		"wheel_id" : 1,
+		"member_id" : 1,
+		"FIGHTER_ID" : 1,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 2,
+		"member_id" : 1,
+		"FIGHTER_ID" : 2,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 3,
+		"member_id" : 1,
+		"FIGHTER_ID" : 3,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 4,
+		"member_id" : 1,
+		"FIGHTER_ID" : 14,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 5,
+		"member_id" : 1,
+		"FIGHTER_ID" : 15,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 6,
+		"member_id" : 1,
+		"FIGHTER_ID" : 16,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 7,
+		"member_id" : 1,
+		"FIGHTER_ID" : 20,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 8,
+		"member_id" : 1,
+		"FIGHTER_ID" : 25,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 9,
+		"member_id" : 1,
+		"FIGHTER_ID" : 26,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 10,
+		"member_id" : 1,
+		"FIGHTER_ID" : 34,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 11,
+		"member_id" : 1,
+		"FIGHTER_ID" : 36,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 12,
+		"member_id" : 1,
+		"FIGHTER_ID" : 38,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 13,
+		"member_id" : 1,
+		"FIGHTER_ID" : 46,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 14,
+		"member_id" : 1,
+		"FIGHTER_ID" : 48,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 15,
+		"member_id" : 1,
+		"FIGHTER_ID" : 50,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 16,
+		"member_id" : 1,
+		"FIGHTER_ID" : 55,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 17,
+		"member_id" : 1,
+		"FIGHTER_ID" : 62,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 18,
+		"member_id" : 1,
+		"FIGHTER_ID" : 64,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 19,
+		"member_id" : 1,
+		"FIGHTER_ID" : 70,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 20,
+		"member_id" : 1,
+		"FIGHTER_ID" : 73,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 21,
+		"member_id" : 1,
+		"FIGHTER_ID" : 75,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 22,
+		"member_id" : 1,
+		"FIGHTER_ID" : 76,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 23,
+		"member_id" : 1,
+		"FIGHTER_ID" : 80,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 24,
+		"member_id" : 1,
+		"FIGHTER_ID" : 82,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 25,
+		"member_id" : 1,
+		"FIGHTER_ID" : 83,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 26,
+		"member_id" : 2,
+		"FIGHTER_ID" : 4,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 27,
+		"member_id" : 2,
+		"FIGHTER_ID" : 5,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 28,
+		"member_id" : 2,
+		"FIGHTER_ID" : 6,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 29,
+		"member_id" : 2,
+		"FIGHTER_ID" : 7,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 30,
+		"member_id" : 2,
+		"FIGHTER_ID" : 9,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 31,
+		"member_id" : 2,
+		"FIGHTER_ID" : 11,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 32,
+		"member_id" : 2,
+		"FIGHTER_ID" : 13,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 33,
+		"member_id" : 2,
+		"FIGHTER_ID" : 18,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 34,
+		"member_id" : 2,
+		"FIGHTER_ID" : 19,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 35,
+		"member_id" : 2,
+		"FIGHTER_ID" : 21,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 36,
+		"member_id" : 2,
+		"FIGHTER_ID" : 26,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 37,
+		"member_id" : 2,
+		"FIGHTER_ID" : 37,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 38,
+		"member_id" : 2,
+		"FIGHTER_ID" : 39,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 39,
+		"member_id" : 2,
+		"FIGHTER_ID" : 40,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 40,
+		"member_id" : 2,
+		"FIGHTER_ID" : 41,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 41,
+		"member_id" : 2,
+		"FIGHTER_ID" : 43,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 42,
+		"member_id" : 2,
+		"FIGHTER_ID" : 45,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 43,
+		"member_id" : 2,
+		"FIGHTER_ID" : 51,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 44,
+		"member_id" : 2,
+		"FIGHTER_ID" : 54,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 45,
+		"member_id" : 2,
+		"FIGHTER_ID" : 56,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 46,
+		"member_id" : 2,
+		"FIGHTER_ID" : 65,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 47,
+		"member_id" : 2,
+		"FIGHTER_ID" : 74,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 48,
+		"member_id" : 2,
+		"FIGHTER_ID" : 77,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 49,
+		"member_id" : 2,
+		"FIGHTER_ID" : 79,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 50,
+		"member_id" : 2,
+		"FIGHTER_ID" : 81,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 51,
+		"member_id" : 3,
+		"FIGHTER_ID" : 8,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 52,
+		"member_id" : 3,
+		"FIGHTER_ID" : 12,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 53,
+		"member_id" : 3,
+		"FIGHTER_ID" : 14,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 54,
+		"member_id" : 3,
+		"FIGHTER_ID" : 15,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 55,
+		"member_id" : 3,
+		"FIGHTER_ID" : 16,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 56,
+		"member_id" : 3,
+		"FIGHTER_ID" : 17,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 57,
+		"member_id" : 3,
+		"FIGHTER_ID" : 22,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 58,
+		"member_id" : 3,
+		"FIGHTER_ID" : 26,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 59,
+		"member_id" : 3,
+		"FIGHTER_ID" : 27,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 60,
+		"member_id" : 3,
+		"FIGHTER_ID" : 30,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 61,
+		"member_id" : 3,
+		"FIGHTER_ID" : 32,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 62,
+		"member_id" : 3,
+		"FIGHTER_ID" : 33,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 63,
+		"member_id" : 3,
+		"FIGHTER_ID" : 39,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 64,
+		"member_id" : 3,
+		"FIGHTER_ID" : 42,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 65,
+		"member_id" : 3,
+		"FIGHTER_ID" : 44,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 66,
+		"member_id" : 3,
+		"FIGHTER_ID" : 47,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 67,
+		"member_id" : 3,
+		"FIGHTER_ID" : 49,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 68,
+		"member_id" : 3,
+		"FIGHTER_ID" : 52,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 69,
+		"member_id" : 3,
+		"FIGHTER_ID" : 53,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 70,
+		"member_id" : 3,
+		"FIGHTER_ID" : 57,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 71,
+		"member_id" : 3,
+		"FIGHTER_ID" : 58,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 72,
+		"member_id" : 3,
+		"FIGHTER_ID" : 59,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 73,
+		"member_id" : 3,
+		"FIGHTER_ID" : 67,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 74,
+		"member_id" : 3,
+		"FIGHTER_ID" : 68,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 75,
+		"member_id" : 3,
+		"FIGHTER_ID" : 69,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 76,
+		"member_id" : 3,
+		"FIGHTER_ID" : 72,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 77,
+		"member_id" : 3,
+		"FIGHTER_ID" : 74,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 78,
+		"member_id" : 3,
+		"FIGHTER_ID" : 76,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 79,
+		"member_id" : 3,
+		"FIGHTER_ID" : 78,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 80,
+		"member_id" : 3,
+		"FIGHTER_ID" : 82,
+		"date_created" : "2024-05-14 16:41:24",
+		"date_modified" : "2024-05-14 16:41:24"
+	},
+	{
+		"wheel_id" : 81,
+		"member_id" : 4,
+		"FIGHTER_ID" : 2,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 82,
+		"member_id" : 4,
+		"FIGHTER_ID" : 4,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 83,
+		"member_id" : 4,
+		"FIGHTER_ID" : 5,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 84,
+		"member_id" : 4,
+		"FIGHTER_ID" : 7,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 85,
+		"member_id" : 4,
+		"FIGHTER_ID" : 9,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 86,
+		"member_id" : 4,
+		"FIGHTER_ID" : 16,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 87,
+		"member_id" : 4,
+		"FIGHTER_ID" : 24,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 88,
+		"member_id" : 4,
+		"FIGHTER_ID" : 26,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 89,
+		"member_id" : 4,
+		"FIGHTER_ID" : 27,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 90,
+		"member_id" : 4,
+		"FIGHTER_ID" : 28,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 91,
+		"member_id" : 4,
+		"FIGHTER_ID" : 29,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 92,
+		"member_id" : 4,
+		"FIGHTER_ID" : 31,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 93,
+		"member_id" : 4,
+		"FIGHTER_ID" : 32,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 94,
+		"member_id" : 4,
+		"FIGHTER_ID" : 33,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 95,
+		"member_id" : 4,
+		"FIGHTER_ID" : 34,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 96,
+		"member_id" : 4,
+		"FIGHTER_ID" : 41,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 97,
+		"member_id" : 4,
+		"FIGHTER_ID" : 42,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 98,
+		"member_id" : 4,
+		"FIGHTER_ID" : 44,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 99,
+		"member_id" : 4,
+		"FIGHTER_ID" : 45,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 100,
+		"member_id" : 4,
+		"FIGHTER_ID" : 47,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 101,
+		"member_id" : 4,
+		"FIGHTER_ID" : 49,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 102,
+		"member_id" : 4,
+		"FIGHTER_ID" : 52,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 103,
+		"member_id" : 4,
+		"FIGHTER_ID" : 53,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 104,
+		"member_id" : 4,
+		"FIGHTER_ID" : 63,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 105,
+		"member_id" : 4,
+		"FIGHTER_ID" : 64,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 106,
+		"member_id" : 4,
+		"FIGHTER_ID" : 65,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 107,
+		"member_id" : 4,
+		"FIGHTER_ID" : 66,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 108,
+		"member_id" : 4,
+		"FIGHTER_ID" : 67,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 109,
+		"member_id" : 4,
+		"FIGHTER_ID" : 68,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 110,
+		"member_id" : 4,
+		"FIGHTER_ID" : 69,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 111,
+		"member_id" : 4,
+		"FIGHTER_ID" : 71,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 112,
+		"member_id" : 4,
+		"FIGHTER_ID" : 72,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 113,
+		"member_id" : 4,
+		"FIGHTER_ID" : 73,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 114,
+		"member_id" : 4,
+		"FIGHTER_ID" : 77,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 115,
+		"member_id" : 4,
+		"FIGHTER_ID" : 78,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 116,
+		"member_id" : 4,
+		"FIGHTER_ID" : 80,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 117,
+		"member_id" : 4,
+		"FIGHTER_ID" : 81,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 118,
+		"member_id" : 4,
+		"FIGHTER_ID" : 83,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 119,
+		"member_id" : 5,
+		"FIGHTER_ID" : 4,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 120,
+		"member_id" : 5,
+		"FIGHTER_ID" : 5,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 121,
+		"member_id" : 5,
+		"FIGHTER_ID" : 9,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 122,
+		"member_id" : 5,
+		"FIGHTER_ID" : 10,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 123,
+		"member_id" : 5,
+		"FIGHTER_ID" : 11,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 124,
+		"member_id" : 5,
+		"FIGHTER_ID" : 12,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 125,
+		"member_id" : 5,
+		"FIGHTER_ID" : 16,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 126,
+		"member_id" : 5,
+		"FIGHTER_ID" : 18,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 127,
+		"member_id" : 5,
+		"FIGHTER_ID" : 19,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 128,
+		"member_id" : 5,
+		"FIGHTER_ID" : 21,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 129,
+		"member_id" : 5,
+		"FIGHTER_ID" : 22,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 130,
+		"member_id" : 5,
+		"FIGHTER_ID" : 23,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 131,
+		"member_id" : 5,
+		"FIGHTER_ID" : 24,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 132,
+		"member_id" : 5,
+		"FIGHTER_ID" : 27,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 133,
+		"member_id" : 5,
+		"FIGHTER_ID" : 28,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 134,
+		"member_id" : 5,
+		"FIGHTER_ID" : 29,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 135,
+		"member_id" : 5,
+		"FIGHTER_ID" : 31,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 136,
+		"member_id" : 5,
+		"FIGHTER_ID" : 34,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 137,
+		"member_id" : 5,
+		"FIGHTER_ID" : 36,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 138,
+		"member_id" : 5,
+		"FIGHTER_ID" : 37,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 139,
+		"member_id" : 5,
+		"FIGHTER_ID" : 38,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 140,
+		"member_id" : 5,
+		"FIGHTER_ID" : 39,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 141,
+		"member_id" : 5,
+		"FIGHTER_ID" : 44,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 142,
+		"member_id" : 5,
+		"FIGHTER_ID" : 45,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 143,
+		"member_id" : 5,
+		"FIGHTER_ID" : 49,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 144,
+		"member_id" : 5,
+		"FIGHTER_ID" : 52,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 145,
+		"member_id" : 5,
+		"FIGHTER_ID" : 53,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 146,
+		"member_id" : 5,
+		"FIGHTER_ID" : 58,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 147,
+		"member_id" : 5,
+		"FIGHTER_ID" : 63,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 148,
+		"member_id" : 5,
+		"FIGHTER_ID" : 72,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 149,
+		"member_id" : 5,
+		"FIGHTER_ID" : 74,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 150,
+		"member_id" : 5,
+		"FIGHTER_ID" : 75,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 151,
+		"member_id" : 5,
+		"FIGHTER_ID" : 77,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 152,
+		"member_id" : 5,
+		"FIGHTER_ID" : 80,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 153,
+		"member_id" : 5,
+		"FIGHTER_ID" : 81,
+		"date_created" : "2024-05-25 12:00:42",
+		"date_modified" : "2024-05-25 12:00:42"
+	},
+	{
+		"wheel_id" : 154,
+		"member_id" : 7,
+		"FIGHTER_ID" : 5,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 155,
+		"member_id" : 7,
+		"FIGHTER_ID" : 6,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 156,
+		"member_id" : 7,
+		"FIGHTER_ID" : 8,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 157,
+		"member_id" : 7,
+		"FIGHTER_ID" : 10,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 158,
+		"member_id" : 7,
+		"FIGHTER_ID" : 12,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 159,
+		"member_id" : 7,
+		"FIGHTER_ID" : 13,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 160,
+		"member_id" : 7,
+		"FIGHTER_ID" : 14,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 161,
+		"member_id" : 7,
+		"FIGHTER_ID" : 15,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 162,
+		"member_id" : 7,
+		"FIGHTER_ID" : 16,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 163,
+		"member_id" : 7,
+		"FIGHTER_ID" : 19,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 164,
+		"member_id" : 7,
+		"FIGHTER_ID" : 21,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 165,
+		"member_id" : 7,
+		"FIGHTER_ID" : 26,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 166,
+		"member_id" : 7,
+		"FIGHTER_ID" : 29,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 167,
+		"member_id" : 7,
+		"FIGHTER_ID" : 30,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 168,
+		"member_id" : 7,
+		"FIGHTER_ID" : 33,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 169,
+		"member_id" : 7,
+		"FIGHTER_ID" : 34,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 170,
+		"member_id" : 7,
+		"FIGHTER_ID" : 35,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 171,
+		"member_id" : 7,
+		"FIGHTER_ID" : 37,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 172,
+		"member_id" : 7,
+		"FIGHTER_ID" : 40,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 173,
+		"member_id" : 7,
+		"FIGHTER_ID" : 41,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 174,
+		"member_id" : 7,
+		"FIGHTER_ID" : 45,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 175,
+		"member_id" : 7,
+		"FIGHTER_ID" : 46,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 176,
+		"member_id" : 7,
+		"FIGHTER_ID" : 47,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 177,
+		"member_id" : 7,
+		"FIGHTER_ID" : 51,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 178,
+		"member_id" : 7,
+		"FIGHTER_ID" : 53,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 179,
+		"member_id" : 7,
+		"FIGHTER_ID" : 54,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 180,
+		"member_id" : 7,
+		"FIGHTER_ID" : 55,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 181,
+		"member_id" : 7,
+		"FIGHTER_ID" : 57,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 182,
+		"member_id" : 7,
+		"FIGHTER_ID" : 58,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 183,
+		"member_id" : 7,
+		"FIGHTER_ID" : 60,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 184,
+		"member_id" : 7,
+		"FIGHTER_ID" : 63,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 185,
+		"member_id" : 7,
+		"FIGHTER_ID" : 65,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 186,
+		"member_id" : 7,
+		"FIGHTER_ID" : 66,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 187,
+		"member_id" : 7,
+		"FIGHTER_ID" : 69,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 188,
+		"member_id" : 7,
+		"FIGHTER_ID" : 70,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 189,
+		"member_id" : 7,
+		"FIGHTER_ID" : 72,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 190,
+		"member_id" : 7,
+		"FIGHTER_ID" : 73,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 191,
+		"member_id" : 7,
+		"FIGHTER_ID" : 74,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 192,
+		"member_id" : 7,
+		"FIGHTER_ID" : 75,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 193,
+		"member_id" : 7,
+		"FIGHTER_ID" : 76,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 194,
+		"member_id" : 7,
+		"FIGHTER_ID" : 79,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 195,
+		"member_id" : 7,
+		"FIGHTER_ID" : 80,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 196,
+		"member_id" : 7,
+		"FIGHTER_ID" : 82,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 197,
+		"member_id" : 12,
+		"FIGHTER_ID" : 2,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 198,
+		"member_id" : 12,
+		"FIGHTER_ID" : 3,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 199,
+		"member_id" : 12,
+		"FIGHTER_ID" : 6,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 200,
+		"member_id" : 12,
+		"FIGHTER_ID" : 8,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 201,
+		"member_id" : 12,
+		"FIGHTER_ID" : 9,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 202,
+		"member_id" : 12,
+		"FIGHTER_ID" : 10,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 203,
+		"member_id" : 12,
+		"FIGHTER_ID" : 11,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 204,
+		"member_id" : 12,
+		"FIGHTER_ID" : 14,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 205,
+		"member_id" : 12,
+		"FIGHTER_ID" : 16,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 206,
+		"member_id" : 12,
+		"FIGHTER_ID" : 18,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 207,
+		"member_id" : 12,
+		"FIGHTER_ID" : 20,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 208,
+		"member_id" : 12,
+		"FIGHTER_ID" : 22,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 209,
+		"member_id" : 12,
+		"FIGHTER_ID" : 24,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 210,
+		"member_id" : 12,
+		"FIGHTER_ID" : 25,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 211,
+		"member_id" : 12,
+		"FIGHTER_ID" : 33,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 212,
+		"member_id" : 12,
+		"FIGHTER_ID" : 35,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 213,
+		"member_id" : 12,
+		"FIGHTER_ID" : 38,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 214,
+		"member_id" : 12,
+		"FIGHTER_ID" : 40,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 215,
+		"member_id" : 12,
+		"FIGHTER_ID" : 51,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 216,
+		"member_id" : 12,
+		"FIGHTER_ID" : 54,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 217,
+		"member_id" : 12,
+		"FIGHTER_ID" : 56,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 218,
+		"member_id" : 12,
+		"FIGHTER_ID" : 57,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 219,
+		"member_id" : 12,
+		"FIGHTER_ID" : 59,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 220,
+		"member_id" : 12,
+		"FIGHTER_ID" : 60,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 221,
+		"member_id" : 12,
+		"FIGHTER_ID" : 67,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 222,
+		"member_id" : 12,
+		"FIGHTER_ID" : 69,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 223,
+		"member_id" : 12,
+		"FIGHTER_ID" : 70,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 224,
+		"member_id" : 12,
+		"FIGHTER_ID" : 71,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 225,
+		"member_id" : 12,
+		"FIGHTER_ID" : 77,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 226,
+		"member_id" : 12,
+		"FIGHTER_ID" : 78,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 227,
+		"member_id" : 12,
+		"FIGHTER_ID" : 80,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 228,
+		"member_id" : 12,
+		"FIGHTER_ID" : 83,
+		"date_created" : "2024-05-25 12:12:24",
+		"date_modified" : "2024-05-25 12:12:24"
+	},
+	{
+		"wheel_id" : 229,
+		"member_id" : 13,
+		"FIGHTER_ID" : 1,
+		"date_created" : "2024-06-04 20:45:22",
+		"date_modified" : "2024-06-04 20:45:22"
+	},
+	{
+		"wheel_id" : 405,
+		"member_id" : 14,
+		"FIGHTER_ID" : 10,
+		"date_created" : "2024-06-04 20:58:41",
+		"date_modified" : "2024-06-04 20:58:41"
+	}
+]}

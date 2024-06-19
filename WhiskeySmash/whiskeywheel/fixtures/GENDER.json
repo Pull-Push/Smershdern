@@ -1,0 +1,27 @@
+{
+"GENDER": [
+	{
+		"gender_id" : 1,
+		"gender_name" : "Male",
+		"date_created" : "2024-05-13 19:56:23",
+		"date_modified" : "2024-05-13 19:56:23"
+	},
+	{
+		"gender_id" : 2,
+		"gender_name" : "Female",
+		"date_created" : "2024-05-13 19:56:23",
+		"date_modified" : "2024-05-13 19:56:23"
+	},
+	{
+		"gender_id" : 3,
+		"gender_name" : "None",
+		"date_created" : "2024-05-13 19:56:23",
+		"date_modified" : "2024-05-13 19:56:23"
+	},
+	{
+		"gender_id" : 4,
+		"gender_name" : "Both",
+		"date_created" : "2024-05-13 21:48:33",
+		"date_modified" : "2024-05-13 21:51:52"
+	}
+]}

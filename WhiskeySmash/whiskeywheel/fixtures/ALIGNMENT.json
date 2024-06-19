@@ -1,0 +1,21 @@
+{
+"ALIGNMENT": [
+	{
+		"alignment_id" : 1,
+		"alignment_name" : "Good",
+		"date_created" : "2024-05-13 19:51:00",
+		"date_modified" : "2024-05-13 19:51:00"
+	},
+	{
+		"alignment_id" : 2,
+		"alignment_name" : "Evil",
+		"date_created" : "2024-05-13 19:51:00",
+		"date_modified" : "2024-05-13 19:51:00"
+	},
+	{
+		"alignment_id" : 3,
+		"alignment_name" : "Neutral",
+		"date_created" : "2024-05-13 19:51:00",
+		"date_modified" : "2024-05-13 19:51:00"
+	}
+]}

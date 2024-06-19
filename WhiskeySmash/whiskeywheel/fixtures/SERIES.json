@@ -1,0 +1,237 @@
+{
+"SERIES": [
+	{
+		"series_id" : 1,
+		"series_name" : "Super Mario",
+		"date_created" : "2024-05-13 20:31:38",
+		"date_modified" : "2024-05-13 20:31:46"
+	},
+	{
+		"series_id" : 2,
+		"series_name" : "Donkey Kong",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 3,
+		"series_name" : "The Legend of Zelda",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 4,
+		"series_name" : "Metroid",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 5,
+		"series_name" : "Yoshi",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 6,
+		"series_name" : "Kirby",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 7,
+		"series_name" : "Star Fox",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 8,
+		"series_name" : "Pokemon",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 9,
+		"series_name" : "EarthBound",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 10,
+		"series_name" : "F-Zero",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 11,
+		"series_name" : "Ice Climber",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 12,
+		"series_name" : "Fire Emblem",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 13,
+		"series_name" : "Game And Watch",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 14,
+		"series_name" : "Kid Icarus",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 15,
+		"series_name" : "Wario Ware",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 16,
+		"series_name" : "Metal Gear Solid",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 17,
+		"series_name" : "Sonic the Hedgehog",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 18,
+		"series_name" : "Pikmin",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 19,
+		"series_name" : "ROB",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 20,
+		"series_name" : "Animal Crossing",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 21,
+		"series_name" : "Mega Man",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 22,
+		"series_name" : "Wii Fit",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 23,
+		"series_name" : "Punch Out",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 24,
+		"series_name" : "Pac-Man",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 25,
+		"series_name" : "Xenoblade Chronicles",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 26,
+		"series_name" : "Duck Hunt",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 27,
+		"series_name" : "Street Fighter",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 28,
+		"series_name" : "Final Fantasy 7",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 29,
+		"series_name" : "Bayonetta",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 30,
+		"series_name" : "Splatoon",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 31,
+		"series_name" : "Castlevania",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 32,
+		"series_name" : "Persona 5",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 33,
+		"series_name" : "Dragon Quest",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 34,
+		"series_name" : "Banjo Kazooie",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 35,
+		"series_name" : "Fatal Fury",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 36,
+		"series_name" : "Arms",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 37,
+		"series_name" : "Minecraft",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 38,
+		"series_name" : "Tekken",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	},
+	{
+		"series_id" : 39,
+		"series_name" : "Kingdom Hearts",
+		"date_created" : "2024-05-13 20:40:13",
+		"date_modified" : "2024-05-13 20:40:13"
+	}
+]}

@@ -1,0 +1,33 @@
+{
+"SSB_GAME_DEBUT": [
+	{
+		"ssb_game_id" : 1,
+		"ssb_game_name" : "N64",
+		"date_created" : "2024-05-13 20:44:39",
+		"date_modified" : "2024-05-13 20:44:39"
+	},
+	{
+		"ssb_game_id" : 2,
+		"ssb_game_name" : "Melee",
+		"date_created" : "2024-05-13 20:44:39",
+		"date_modified" : "2024-05-13 20:44:39"
+	},
+	{
+		"ssb_game_id" : 3,
+		"ssb_game_name" : "Brawl",
+		"date_created" : "2024-05-13 20:44:39",
+		"date_modified" : "2024-05-13 20:44:39"
+	},
+	{
+		"ssb_game_id" : 4,
+		"ssb_game_name" : "SSB4",
+		"date_created" : "2024-05-13 20:44:39",
+		"date_modified" : "2024-05-13 20:44:39"
+	},
+	{
+		"ssb_game_id" : 5,
+		"ssb_game_name" : "Ultimate",
+		"date_created" : "2024-05-13 20:44:39",
+		"date_modified" : "2024-05-13 20:44:39"
+	}
+]}
