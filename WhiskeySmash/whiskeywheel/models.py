@@ -15,3 +15,10 @@ class PersonClass(models.Model):
 
     def __str__(self):
         return self.first
+    
+class ww_member(models.Model):
+    member_id = models.IntegerField(),
+    member_name = models.CharField(max_length=255)
+
+    def __str__(self):
+        return self.member_name

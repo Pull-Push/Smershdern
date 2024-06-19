@@ -22,4 +22,4 @@
 
 6/4/24 - back end of randomizer finished? maybe?
 
-6/18/24 - Beginning stages of user auth and control
+6/18/24 - Beginning stages of user auth and control - db migration
